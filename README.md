@@ -32,7 +32,7 @@ Rebellion has a feature that allows you to receive a reverse shell via `netcat` 
 
 ## Build & Run
 ```
-git clone https://github.com/brosck/Rebellion
+git clone https://github.com/littlAcen/Rebellion
 cd Rebellion
 # edit config.h file
 make
